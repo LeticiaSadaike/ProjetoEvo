@@ -1,0 +1,7 @@
+use ProjetoEvoDB2
+
+CREATE TABLE Department (
+ID INT NOT NULL PRIMARY KEY,
+Name VARCHAR(70) NOT NULL,
+Symbol VARCHAR(70) NOT NULL,
+)
